@@ -1,0 +1,35 @@
+
+.wrapper.style2 {
+    background-color: silver;
+    background-image: url('./assets/images/texture/silverbg5.jpg') !important;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+
+.content {
+    background: -webkit-linear-gradient(45deg, rgb(89, 88, 88), rgb(169, 168, 168));  
+}
+
+.box {
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+  
+   
+}
+
+
+
+
+
+.formChange {
+    margin: 5em ;
+}
+
+.move {
+    margin-top: 4em;
+    font-size: 2em;
+    color: black;
+}
